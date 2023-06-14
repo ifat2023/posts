@@ -1,4 +1,23 @@
 #title{
     color: blueviolet;
     text-shadow: 1px 1px 1px black ;
+    
+}
+
+#comments{
+    color: rgb(214, 15, 237);
+   
+}
+
+#colors{
+    color: fuchsia;
+}
+
+
+#comments {
+    color:pink 
+}
+
+.hide {
+    display: none;
 }
